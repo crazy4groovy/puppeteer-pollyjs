@@ -1,0 +1,7 @@
+.vscode/
+
+node_modules/
+
+__recordings__/
+__screenshots__/*.png
+.env
