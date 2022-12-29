@@ -14,7 +14,7 @@
     "@pollyjs/adapter-puppeteer": "^1.1.4",
     "@pollyjs/core": "^1.1.4",
     "@pollyjs/persister-fs": "^1.0.5",
-    "jest": "^23.5.0",
+    "jest": "^29.3.1",
     "puppeteer": "^1.7.0",
     "xo": "^0.23.0"
   },
